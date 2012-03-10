@@ -1,0 +1,16 @@
+#header{
+	background: blue;
+	color: white;
+}
+#footer{
+	background: cyan;
+	float: right;
+}
+#content{		
+	background: lightgreen;					 
+}
+body{
+
+	margin-left: 150;
+	margin-right:150;
+}
